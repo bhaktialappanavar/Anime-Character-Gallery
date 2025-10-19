@@ -27,7 +27,7 @@ A beautiful and responsive React application that displays anime characters from
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/anime-character-gallery.git
+   git clone https://github.com/bhaktialappanavar/Anime-Character-Gallery.git
    cd anime-character-gallery
    ```
 
