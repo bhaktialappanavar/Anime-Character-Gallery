@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-[#0f172a] via-[#081129] to-[#07121a] text-white font-poppins;
+}
